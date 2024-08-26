@@ -6,3 +6,6 @@ assiignment completed
 >>>>>>> 678a3c5c97a73763ed802c6aa180bb80e14b7cb3
 # se-day4-assignment-su871
 # se-day4-asssignment-su871
+# se-day5-assignment-su871
+# se-day5-asignment
+# se-day3-assignment-su871
